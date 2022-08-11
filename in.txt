@@ -1,0 +1,504 @@
+ <div class="peliculas-recomendadas contenedor"> 
+			<div class="contenedor-titulo-controles"> 
+				<h3>Peliculas Estrenos </h3> 
+				<div class="indicadores">
+				</div> 
+			</div> 
+
+
+			<div class="contenedor-principal"> 
+				<button role="button" id="flecha-izquierda" class="flecha-izquierda"><i class="fas fa-angle-left"></i></button>  
+
+				<div class="contenedor-carousel"> 
+					<div class="carousel"> 
+						<div class="pelicula"><a href=""><img src="img/1.png" alt=""></a> 
+						</div> 
+
+						<div class="pelicula"> 
+							<a href=""><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/5.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/6.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/7.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/5.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/6.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/7.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula">  							<a href="#"><img src="img/2.png" alt=""></a> 
+					   </div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+					</div> 
+				</div> 
+
+
+				<button role="button" id="flecha-derecha" class="flecha-derecha"><i class="fas fa-angle-right"></i></button> 
+			</div> 
+		</div> 
+
+
+<div class="peliculas-recomendadas contenedor"> 
+ 			<div class="contenedor-titulo-controles"> 
+ 				<h3>Series</h3> 
+ 				<div class="indicadores"></div> 
+ 			</div> 
+ 
+ 
+ 			<div class="contenedor-principal"> 
+ 				<button role="button" id="flecha-izquierda" class="flecha-izquierda"><i class="fas fa-angle-left"></i></button>  
+ 
+ 				<div class="contenedor-carousel"> 
+ 					<div class="carousel"> 
+ 						<div class="pelicula"><a href=""><img src="img/1.png" alt=""></a> 
+ 						</div> 
+
+ 						<div class="pelicula"> 
+ 							<a href=""><img src="img/2.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/3.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/4.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/5.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/6.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/7.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/1.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/2.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/3.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/1.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/2.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/3.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/4.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/5.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/6.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/7.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/1.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula">  							<a href="#"><img src="img/2.png" alt=""></a> 
+						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/3.png" alt=""></a> 
+ 						</div> 
+ 						<div class="pelicula"> 
+ 							<a href="#"><img src="img/4.png" alt=""></a> 
+ 						</div> 
+ 					</div> 
+ 				</div> 
+ 
+ 
+ 				<button role="button" id="flecha-derecha" class="flecha-derecha"><i class="fas fa-angle-right"></i></button> 
+ 			</div> 
+ 		</div> 
+
+
+
+
+		 <div class="peliculas-recomendadas contenedor"> 
+			<div class="contenedor-titulo-controles"> 
+				<h3>Animes</h3> 
+				<div class="indicadores"></div> 
+			</div> 
+
+
+			<div class="contenedor-principal"> 
+				<button role="button" id="flecha-izquierda" class="flecha-izquierda"><i class="fas fa-angle-left"></i></button>  
+
+				<div class="contenedor-carousel"> 
+					<div class="carousel"> 
+						<div class="pelicula"><a href=""><img src="img/1.png" alt=""></a> 
+						</div> 
+
+						<div class="pelicula"> 
+							<a href=""><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/5.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/6.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/7.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/5.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/6.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/7.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula">  							<a href="#"><img src="img/2.png" alt=""></a> 
+					   </div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+					</div> 
+				</div> 
+
+
+				<button role="button" id="flecha-derecha" class="flecha-derecha"><i class="fas fa-angle-right"></i></button> 
+			</div> 
+		</div> 
+
+
+
+
+
+		<div class="peliculas-recomendadas contenedor"> 
+			<div class="contenedor-titulo-controles"> 
+				<h3>Peliculas de Accion</h3> 
+				<div class="indicadores"></div> 
+			</div> 
+
+
+			<div class="contenedor-principal"> 
+				<button role="button" id="flecha-izquierda" class="flecha-izquierda"><i class="fas fa-angle-left"></i></button>  
+
+				<div class="contenedor-carousel"> 
+					<div class="carousel"> 
+						<div class="pelicula"><a href=""><img src="img/1.png" alt=""></a> 
+						</div> 
+
+						<div class="pelicula"> 
+							<a href=""><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/5.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/6.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/7.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/5.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/6.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/7.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula">  							<a href="#"><img src="img/2.png" alt=""></a> 
+					   </div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+					</div> 
+				</div> 
+
+
+				<button role="button" id="flecha-derecha" class="flecha-derecha"><i class="fas fa-angle-right"></i></button> 
+			</div> 
+		</div> 
+
+
+
+		<div class="peliculas-recomendadas contenedor"> 
+			<div class="contenedor-titulo-controles"> 
+				<h3>Peliculas de Comedia</h3> 
+				<div class="indicadores"></div> 
+			</div> 
+
+
+			<div class="contenedor-principal"> 
+				<button role="button" id="flecha-izquierda" class="flecha-izquierda"><i class="fas fa-angle-left"></i></button>  
+
+				<div class="contenedor-carousel"> 
+					<div class="carousel"> 
+						<div class="pelicula"><a href=""><img src="img/1.png" alt=""></a> 
+						</div> 
+
+						<div class="pelicula"> 
+							<a href=""><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/5.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/6.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/7.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/5.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/6.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/7.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula">  							<a href="#"><img src="img/2.png" alt=""></a> 
+					   </div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+					</div> 
+				</div> 
+
+
+				<button role="button" id="flecha-derecha" class="flecha-derecha"><i class="fas fa-angle-right"></i></button> 
+			</div> 
+		</div> 
+
+
+
+		<div class="peliculas-recomendadas contenedor"> 
+			<div class="contenedor-titulo-controles"> 
+				<h3>Peliculas de Suspenso</h3> 
+				<div class="indicadores"></div> 
+			</div> 
+
+
+			<div class="contenedor-principal"> 
+				<button role="button" id="flecha-izquierda" class="flecha-izquierda"><i class="fas fa-angle-left"></i></button>  
+
+				<div class="contenedor-carousel"> 
+					<div class="carousel"> 
+						<div class="pelicula"><a href=""><img src="img/1.png" alt=""></a> 
+						</div> 
+
+						<div class="pelicula"> 
+							<a href=""><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/5.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/6.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/7.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/2.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/5.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/6.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/7.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/1.png" alt=""></a> 
+						</div> 
+						<div class="pelicula">  							<a href="#"><img src="img/2.png" alt=""></a> 
+					   </div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/3.png" alt=""></a> 
+						</div> 
+						<div class="pelicula"> 
+							<a href="#"><img src="img/4.png" alt=""></a> 
+						</div> 
+					</div> 
+				</div> 
+
+
+				<button role="button" id="flecha-derecha" class="flecha-derecha"><i class="fas fa-angle-right"></i></button> 
+			</div> 
+		</div> 
